@@ -1,0 +1,79 @@
+
+]	java:S125@"<This block of commented-out lines of code should be removed.(¯øôúÿÿÿÿ8Úº®ÚŞ1
+W	java:S125O"<This block of commented-out lines of code should be removed.(âì¡a8œ·ÚŞ1
+H
+java:S1068	"&Remove this unused "id" private field.(şÓî«şÿÿÿÿ8ÎÊ«ÚŞ1
+I
+java:S1068",Remove this unused "username" private field.(‘ó¹²8ÎÊ«ÚŞ1
+N
+java:S1068",Remove this unused "password" private field.(œãë­úÿÿÿÿ8ÎÊ«ÚŞ1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ÎÊ«ÚŞ1
+U
+java:S1068"3Remove this unused "ownersFirstname" private field.(Ğ€æÿıÿÿÿÿ8ÎÊ«ÚŞ1
+T
+java:S1068"2Remove this unused "ownersLastName" private field.(¨ªêúÿÿÿÿ8ÎÊ«ÚŞ1
+Q
+java:S1068"/Remove this unused "ownersEmail" private field.(ßØãÁøÿÿÿÿ8ÎÊ«ÚŞ1
+M
+java:S1068"0Remove this unused "ownersNumber" private field.(†åî8ÏÊ«ÚŞ1
+M
+java:S1068"+Remove this unused "country" private field.(“—àÊúÿÿÿÿ8ÏÊ«ÚŞ1
+E
+java:S1068"(Remove this unused "role" private field.(±õÉÖ8ÏÊ«ÚŞ1
+O
+java:S1068"-Remove this unused "createdAt" private field.(¯‰‡ƒıÿÿÿÿ8ÏÊ«ÚŞ1
+I
+java:S1068"-Remove this unused "updatedAt" private field.(•ÊˆR8ÏÊ«ÚŞ1
+D
+java:S1068"'Remove this unused "age" private field.(–Œó¯8ÏÊ«ÚŞ1
+G
+java:S1068!"*Remove this unused "gender" private field.(ÀÄŒ8ÏÊ«ÚŞ1
+F
+java:S1068$")Remove this unused "color" private field.(È„…¦8ÏÊ«ÚŞ1
+F
+java:S1068'")Remove this unused "breed" private field.(ı»Ï±8ÏÊ«ÚŞ1
+G
+java:S1068*"*Remove this unused "weight" private field.(Š”øø8ÏÊ«ÚŞ1
+J
+java:S1068,"(Remove this unused "size" private field.(Ğœßíúÿÿÿÿ8ÏÊ«ÚŞ1
+K
+java:S1068/".Remove this unused "isNeutered" private field.(ÑŒ®Ò8ÏÊ«ÚŞ1
+M
+java:S10682"0Remove this unused "isVaccinated" private field.(ßÉ®‡8ÏÊ«ÚŞ1
+Q
+java:S10684"/Remove this unused "description" private field.(ÇÓæâıÿÿÿÿ8ÏÊ«ÚŞ1
+N
+java:S10686",Remove this unused "imageUrl" private field.(Œİ÷ûÿÿÿÿ8ĞÊ«ÚŞ1
+H
+java:S10689",Remove this unused "isActive" private field.(Ğ·†x8ĞÊ«ÚŞ1
+L
+java:S1068;"/Remove this unused "dateOfBirth" private field.(Î€ö˜8ĞÊ«ÚŞ1
+Q
+java:S1068>"/Remove this unused "personality" private field.(…ìÁŞıÿÿÿÿ8òµ¬ÚŞ1
+L
+java:S1068B"*Remove this unused "habits" private field.(ä°Æııÿÿÿÿ8Í½¯ÚŞ1
+O
+java:S1068D"2Remove this unused "medicalHistory" private field.(Ìã†“8°—°ÚŞ1
+W
+java:S1068E"5Remove this unused "medicalConditions" private field.(˜£İ›ûÿÿÿÿ8³ˆµÚŞ1
+R
+java:S1068G"0Remove this unused "favoriteToys" private field.(çš’¤ûÿÿÿÿ8˜ä°ÚŞ1
+J
+java:S1068I"(Remove this unused "diet" private field.(Úùàûûÿÿÿÿ8¡ó±ÚŞ1
+Q
+java:S1068K"/Remove this unused "microchipId" private field.(ß—Ìûÿÿÿÿ8ÆÁ³ÚŞ1
+S
+java:S1068M"6Remove this unused "registrationNumber" private field.(„›ÔÖ8Æ¡´ÚŞ1
+M
+java:S1068R"1Remove this unused "groomingNeeds" private field.(Í’8Üó·ÚŞ1
+S
+java:S1068T"1Remove this unused "activityLevel" private field.(ÕÓ¿­ıÿÿÿÿ8¬£¹ÚŞ1
+R
+java:S1068W"5Remove this unused "livingEnvironment" private field.(«ÅÅã8¤‰ºÚŞ1
+T
+java:S1068Z"2Remove this unused "lifeExpectancy" private field.(»­­ÿúÿÿÿÿ8£í½ÚŞ1
+N
+java:S1068\"1Remove this unused "litterTrained" private field.(†ñÈş8¿¡ÂÚŞ1
+R
+java:S1068^"0Remove this unused "specialNeeds" private field.(®îœøûÿÿÿÿ8ûÏÄÚŞ1
